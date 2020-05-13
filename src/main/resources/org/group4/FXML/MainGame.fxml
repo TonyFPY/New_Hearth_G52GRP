@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="Back" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyReleased="#handleOnKeyReleased" prefHeight="400.0" prefWidth="600.0" stylesheets="@../css/application.css" xmlns="http://javafx.com/javafx/10.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.group4.Controller.GameController">
+   <children>
+      <ImageView fx:id="robot_image" fitHeight="391.0" fitWidth="521.0" layoutX="40.0" layoutY="-5.0">
+         <image>
+            <Image url="@../image/robot.gif" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

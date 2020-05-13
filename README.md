@@ -1,5 +1,5 @@
-# <img src="/src/main/resources/org/group4/readme/robot.jpg" alt="logo" width="30"/> Interactive Audio Adventure for those with Physical Challenges
-> This is a Software Engineering Group Project (G52GRP/COMP2002) starting from September 2019 to May 2020. The *[project]()* is about developing a story-based audio game for people with vision loss. Our supervisor is *[Steve Benford](https://www.nottingham.ac.uk/computerscience/people/steve.benford)* and industry sponsor is *[IBM](https://www.ibm.com/uk-en)*.
+# <img src="/src/main/resources/org/group4/readme/robot.jpg" alt="logo" width="40"/> Interactive Audio Adventure for those with Physical Challenges
+> This is a Software Engineering Group Project (G52GRP/COMP2002) starting from September 2019 to May 2020. The *[project]()* is about developing a story-based interactive audio game for people with vision loss. Our supervisor is *[Steve Benford](https://www.nottingham.ac.uk/computerscience/people/steve.benford)* and industry sponsor is *[IBM](https://www.ibm.com/uk-en)*.
 
 ### Catalogue
 - [Development Environment & Running Requirement](#Development-Environment-&-Running-Requirement)

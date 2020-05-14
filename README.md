@@ -55,8 +55,7 @@ src
             └── group4
                 ├── image
                 ├── music
-                ├── FXML
-                └── HighScoreList
+                └── FXML
 ```
 
 ### High Level Program Structure
